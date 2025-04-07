@@ -1,0 +1,43 @@
+.s-header {
+  background-color: #f9f7ff;
+  text-align: center;
+}
+
+.container{
+  padding: 100px 0;
+}
+
+.logo {
+  font: var(--text-md);
+  color: var(--dt-color);
+  letter-spacing: 1.6px;
+}
+
+.s-header h1 {
+  margin-top: 18px;
+  margin-bottom: 40px;
+  font: var(--title);
+}
+
+#title {
+  color: var(--bt-color);
+}
+
+.barra-pesquisa {
+  width: 993px;
+  height: 128px;
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  padding: 40px;
+  background-color: white;
+  margin: 0 auto;
+}
+
+.element{
+  width: 348px;
+  height: 48px;
+  padding: 12px, 8px, 12px, 14px;
+  background-color: #f9f7ff;
+  border: none;
+}

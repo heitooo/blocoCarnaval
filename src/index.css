@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: var(--roboto);
+}
+
+:root {
+  --text-color: #121214;
+  --sl-color: #7c7c8a;
+  --dt-color: #e45858;
+  --bt-color: #6246ea;
+
+  /* font-size, line-height, font-family */
+  --roboto: "Roboto", sans-serif;
+  --title: 700 48px/125% var(--roboto);
+  --s-title: 700 32px/140% var(--roboto);
+  --text-l: 700 20px/140% var(--roboto);
+  --text-md: 600 16px/160% var(--roboto);
+}
